@@ -7,3 +7,6 @@ Depois faremos com o Fabric
 E ainda replicaremos com AzureDevOps!
 
 A aula está realmente incrivel
+
+Teste de alteração por branch do Robson!!!
+
